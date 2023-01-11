@@ -10,10 +10,9 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 <style>
-	td{text-align:center;}
+	
 </style>
 
-<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
 <script src="https://code.jquery.com/jquery-3.6.0.js" type="text/javascript"></script>
 <script type="text/javascript">
 	
@@ -22,9 +21,7 @@
 <body>
 
 <div class="container">
-	<div class="jumbotron text-center">
-	  
-	</div> 
+	test!!!!!!!
 </div>
 </body>
 </html>
